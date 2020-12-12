@@ -4,6 +4,8 @@ A no-dependency, header-only C89 library for parsing
 [NEZPlug M3U files](http://www.vgmpf.com/Wiki/index.php/NEZ_Plug).
 
 It allocates no memory and does not use any C library functions.
+It works with all line endings, including strings with
+no line ending.
 
 ## Example Usage
 
