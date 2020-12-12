@@ -109,5 +109,7 @@ and copying the title field out to some buffer (again, after escaping).
 
 ## LICENSE
 
-Public Domain or MIT No Attribution, your choice.
+Public Domain or MIT-0
+
+See the file `LICENSE` for details.
 

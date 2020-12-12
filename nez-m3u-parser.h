@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: Unlicense OR MIT-0 */
+
 #ifndef NEZ_M3U_PARSER_H
 #define NEZ_M3U_PARSER_H
 
